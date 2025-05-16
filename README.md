@@ -75,6 +75,7 @@ Using Excel, I analyzed the following:
 -	New Customers had the highest AOV and monthly spend of 52% and 89% repectively , showing potential for upselling or loyalty programs.
 
   ### visuals
+<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/customer%20seg%20data%20analysis.png?raw=true" alt="customer seg data analysis" width="250"/>
 
 
 
