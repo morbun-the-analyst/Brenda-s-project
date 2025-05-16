@@ -7,7 +7,7 @@
 - [Data Description](#data-description)
 - [Customer Report ERD](#customer-report-erd)
 - [Insights Deep Dive](#insights-deep-dive)
-- [Visuals](#visuals)
+- [Visualizations](#visualizations)
 - [Recommendations](#recommendations)
 - [Clarifying Questions](#clarifying-questions)
 - [caveats](#caveats)
@@ -77,7 +77,7 @@ Using Excel, I analyzed the following:
 - The strong performance of new customers suggests recent acquisition strategies are effective. However, with VIPs close behind, there is an opportunity to nurture New customers into long-term VIPs to enhance lifetime value.  
 
 
-### visuals
+### visualizations
 <img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/customer%20seg%20data%20analysis.png?raw=true" alt="customer seg data analysis" width="250"/>
 <img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/CUSTOMERS%20KPI%20CLUSTER%20CHARTS.png?raw=true" alt="CUSTOMER KPI CLUSTER CHARTS" width="300"/>
 <img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/customer%20segment%20by%20sales%20.stacked.png?raw=true" alt="customer segment by sales .stacked" width="300"/>
