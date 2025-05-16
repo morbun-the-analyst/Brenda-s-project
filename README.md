@@ -12,7 +12,13 @@
 - [Clarifying Questions](#clarifying-questions)
 - [caveats](#caveats)
 ## Project Description Summary
-<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/SALES%20ERD.png?raw=true" alt="SALES ERD" width="300"/>
+**Duration**: 3weeks
+
+**Tools**: Excel (PivotTables, PivotCharts)
+
+**Skills Demonstrated**: EDA, segmentation, KPI analysis, Excel visualization, business storytelling
+
+**Key Metrics Used**: Total Sales, Recency, AOV, Monthly Spend
 
 
 ### Project Background
@@ -52,11 +58,8 @@ Performed an end-to-end exploratory data analysis on a structured customer datas
 Purpose: To analyze customer behaviors, uncover high-value segments, and generate business recommendations
 
 ## Customer Report ERD
-This project used a simplified star schema with the following tables:
-- fact_sales
-- dim_customers
-- Joins were made using customer_key as the primary/foreign key.
-- 
+<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/SALES%20ERD.png?raw=true" alt="SALES ERD" width="250"/>
+
 ### Insights Deep Dive
 Using Excel, I analyzed the following:
 1. Revenue Contribution
