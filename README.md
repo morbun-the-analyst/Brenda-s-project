@@ -12,7 +12,8 @@
 - [Clarifying Questions](#clarifying-questions)
 - [caveats](#caveats)
 ## Project Description Summary
-![image_alt](https://github.com/user-attachments/assets/71d3c450-3732-43b6-b17f-370724de50ae)
+<img src= alt="Customer ERD" width="500"/>
+
 
 ### Project Background
 
