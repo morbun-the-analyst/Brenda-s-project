@@ -76,6 +76,7 @@ Using Excel, I analyzed the following:
 
   ### visuals
 <img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/customer%20seg%20data%20analysis.png?raw=true" alt="customer seg data analysis" width="250"/>
+<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/CUSTOMERS%20KPI%20CLUSTER%20CHARTS.png?raw=true" alt="CUSTOMER KPI CLUSTER CHARTS" width="250"/>
 
 
 
