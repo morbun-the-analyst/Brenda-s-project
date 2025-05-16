@@ -14,7 +14,7 @@
 ## Project Description Summary
 **Duration**: 3weeks
 
-**Tools**: Excel (PivotTables, PivotCharts)
+**Tools**: Excel (PivotTables, PivotCharts),SQL(Joins, Aggregations, CTE, Create Views, microsoft sql)
 
 **Skills Demonstrated**: EDA, segmentation, KPI analysis, Excel visualization, business storytelling
 
@@ -71,12 +71,39 @@ Using Excel, I analyzed the following:
 3. Recency
 - VIPs had the lowest recency of 23k months, indicating recent engagement
 -	New customers had higher recency 200k months , suggesting they may churn if not retained
-4. Average Order Value (AOV) & Monthly Spend
--	New Customers had the highest AOV and monthly spend of 52% and 89% repectively , showing potential for upselling or loyalty programs.
 
-  ### visuals
+4. Average Order Value (AOV) & Monthly Spend
+-	New Customers had the highest AOV and monthly spend of 52% and 89% repectively. 
+- The strong performance of new customers suggests recent acquisition strategies are effective. However, with VIPs close behind, there is an opportunity to nurture New customers into long-term VIPs to enhance lifetime value.  
+
+
+### visuals
 <img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/customer%20seg%20data%20analysis.png?raw=true" alt="customer seg data analysis" width="250"/>
-<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/CUSTOMERS%20KPI%20CLUSTER%20CHARTS.png?raw=true" alt="CUSTOMER KPI CLUSTER CHARTS" width="250"/>
+<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/CUSTOMERS%20KPI%20CLUSTER%20CHARTS.png?raw=true" alt="CUSTOMER KPI CLUSTER CHARTS" width="300"/>
+<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/customer%20segment%20by%20sales%20.stacked.png?raw=true" alt="customer segment by sales .stacked" width="300"/>
+<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/SALES%20TREND%20PROJECT%20PORTFOLIO.png?raw=true" alt="SALES TREND PROJECT PORTFOLIO" width="300"/>
+
+### Recommendations
+1.	Retain New Customers Sooner
+-	Send timely follow-up emails, onboarding guides, or discounts within the first month.
+-	Consider why they drop off (long delivery? lack of follow-up? no loyalty incentives?).
+2.	Nurture VIPs
+-	Reward them with loyalty programs, exclusive offers, or early product access.
+-	Keep communication personalized — these customers are gold.
+3.	Upsell to Regulars
+-	Encourage them to move toward VIP behavior with stragegies like discounts on bulk orders or referrals.
+
+### Clarifying Questions
+-	Should we analyze product-level purchasing behavior to tailor future promotions?
+- Is there seasonality in customer purchasing patterns we should account for?
+
+### Caveats
+- The analysis was done using Excel on web (not full Power BI dashboards).
+- Data accuracy depends on the correctness of the initial import and assumptions.
+- External factors such as marketing campaigns or customer service quality were not considered
+
+
+
 
 
 
