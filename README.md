@@ -12,7 +12,7 @@
 - [Clarifying Questions](#clarifying-questions)
 - [caveats](#caveats)
 ## Project Description Summary
-<img src= alt="Customer ERD" width="500"/>
+<img src="https://github.com/morbun-the-analyst/Brenda-s-project/blob/main/SALES%20ERD.png?raw=true" alt="SALES ERD" width="500"/>
 
 
 ### Project Background
