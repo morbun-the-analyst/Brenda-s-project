@@ -23,7 +23,7 @@
 
 ### Project Background
 
-As a junior data analyst aspiring to break into tech, I worked on a simulated sales data project to mimic a real retail business scenario. The objective was to segment the customer data in sql and  analyze customer behavior across different segments and age groups using Excel—focusing on revenue drivers, customer lifetime metrics, and purchase behavior.
+As an aspiring data analyst, I worked on a simulated sales data project to mimic a real retail business scenario. The objective was to segment the customer data in sql and  analyze customer behavior across different segments and age groups using Excel—focusing on revenue drivers, customer lifetime metrics, and purchase behavior.
 
 ### Executive  Summary
 Performed an end-to-end exploratory data analysis on a structured customer dataset using SQL to uncover key behavioral and purchasing patterns. Generated a customer-level report view by calculating KPIs such as recency, average order value, and average monthly spend. Segmented customers by age group and lifecycle value (New, Regular, VIP) to drive better targeting strategies.I then used Excel PivotTables and PivotCharts (clustered column and stacked column) to explore patterns in the data. The analysis identified New Customers aged 50+ as the highest contributors to recent revenue. However, VIP customers had the lowest recency, suggesting stronger brand loyalty. Recommendations were made on targeting retention campaigns based on these insights.
